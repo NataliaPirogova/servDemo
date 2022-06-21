@@ -5,3 +5,11 @@
     background: #3962ff;
     border: 1px solid blue;
 }
+
+#menu ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0px;
+    margin: 0px;
+}
